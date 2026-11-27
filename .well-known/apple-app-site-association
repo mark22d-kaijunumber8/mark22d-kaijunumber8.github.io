@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["B9SNM6X5C2.com.lun.layer"],
+        "components": [
+          { "/": "/layer/r.html", "comment": "Routines shared from Layer open in the app" }
+        ]
+      }
+    ]
+  }
+}
